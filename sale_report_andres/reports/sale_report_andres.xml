@@ -47,34 +47,26 @@
                           <tbody>
                             <tr>
                               <th scope="row">1</th>
-                              <td>pater</td>
-                              <td>julian</td>
-                              <td>andres</td>
-                              <td>sergio</td>
-                              <td>olga</td>
-                            </tr>
+                              <td>Luis</td>
+                              <td>felipe</td>
+                              <td>desarrollador</td>
+                              <td>1200</td>
+                              </tr>
                             <tr>
                               <th scope="row">2</th>
-                              <td>Jacob</td>
-                              <td>Thornton</td>
-                              <td>@fat</td>
+                              <td>Julian</td>
+                              <td>arguello</td>
+                              <td>funcional</td>
+                              <td>1200</td>
+                              </tr>
+                            <tr>
+                              <th scope="row">3</th>
+                              <td>Sergio</td>
                               <td>gutierrez</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">3</th>
-                              <td>Larry</td>
-                              <td>the Bird</td>
-                              <td>@twitter</td>
-                              <td>jijiji</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">3</th>
-                              <td>12000</td>
-                              <td>12000</td>
-                              <td>12000</td>
-                              <td>12000</td>
-                            </tr>
-                          </tbody>
+                              <td>funcional</td>
+                              <td>1200</td>
+                              </tr>
+                            </tbody>
                         </table>
 
                        </div>
